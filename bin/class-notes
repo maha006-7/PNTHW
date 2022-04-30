@@ -1,0 +1,8 @@
+java is all about classes
+java is highly typed language 
+a class is blueprint
+object is an instance of class
+method is a reusable block of code that runs when called
+constructor: authority that is given rule in the creation of the object
+access modifiers: private can't access it outside the class,
+public accessible, default can't access it outside the package
